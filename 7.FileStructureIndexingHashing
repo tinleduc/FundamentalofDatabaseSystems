@@ -1,0 +1,40 @@
+Disk stotage Basic File Structures Hashing
+  Introduction
+  
+  Secondary storage Devices
+  
+  Buffering of Blocks
+  
+  Placing File Records on Disk
+  
+  Operations on Files
+  
+  Files of Unordered Record(Heap Files)
+  
+  Files of Ordered Record(Sorted Files)
+  
+  Hashing Techniques
+  
+  Other Primary File Organizations
+  
+  Parallelizing Disk Access Using RAID Technology
+  
+  New Storage Systems
+  
+  Summary
+
+Indexing Structures for Files
+  
+  Types of Single-level Ordered Indexes
+  
+  MultiLevel Indexes
+  
+  Dynamic MultiLevel Indexes Using B-Trees and B+-Trees
+  
+  Indexes on Multiple Keys
+  
+  Other Types of Indexes
+  
+  Some General Issues Concerning Indexing
+  
+  Summary
